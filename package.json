@@ -1,7 +1,6 @@
 {
   "name": "04.mongo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^4.10.0"
-  }
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.2",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobirad/04.mongo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bobirad/04.mongo/issues"
+  },
+  "homepage": "https://github.com/bobirad/04.mongo#readme",
+  "description": ""
 }
